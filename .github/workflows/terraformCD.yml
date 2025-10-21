@@ -1,4 +1,4 @@
-name: Terraform CD
+name: Terraform CD for Oblig2
 
 on:
   push:

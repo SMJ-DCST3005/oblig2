@@ -1,4 +1,4 @@
-name: Terraform CI
+name: Terraform CI for Oblig2
 
 on:
   pull_request:
